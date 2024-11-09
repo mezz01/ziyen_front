@@ -14,7 +14,7 @@ const geistMono = localFont({
 
 export const metadata = {
   title: "Ziyen education",
-  description: "An educational platform from moroccans to moroccans",
+  description: "The number one educational platform from moroccans to moroccans",
 };
 
 export default function RootLayout({ children }) {
