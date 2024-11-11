@@ -1,19 +1,12 @@
 import LaernCard from "../components/learn-card";
 
 const cardTitles = {
-    [
-        title = "Lessons",
-    
-    
-        title = "Video courses",
-    
-    
-        title = "Exercices and Exams",
-    
-    
-        title = "Student Notes"
-    ]
+        title : "Lessons",
+        title : "Video courses",
+        title : "Exercices and Exams",
+        title : "Student Notes"
 }
+
 export default function Module() {
     return (
         <div>
